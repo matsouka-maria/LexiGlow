@@ -33,7 +33,7 @@ Guess hidden computer science vocabulary words letter by letter. Score points, b
 **Requirements:** Python 3.6+, no external libraries needed.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lexiglow.git
+git clone https://github.com/matsouka-maria/lexiglow.git
 cd lexiglow
 python lexiglow.py
 ```
